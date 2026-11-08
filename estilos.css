@@ -91,7 +91,7 @@ header {
 
 
 .banner {
-   background-image: url('imagenes/IMAGENFONDO.png');
+   background-image: url('../imagenes/IMAGENFONDO.png');
    background-size: cover;
    background-position: center;
    background-repeat: no-repeat;
@@ -596,7 +596,7 @@ header {
 
 
 #EXPERIENCIAS {
-    background-image: url('imagenes/SEC4.png');
+    background-image: url('../imagenes/SEC4.png');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
