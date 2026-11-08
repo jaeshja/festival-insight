@@ -17,9 +17,7 @@ body {
    overflow-x: hidden;
 }
 
-/* ==========================================
-   HEADER
-   ========================================== */
+
 header {
    font-size: 20px; 
    background-color: #d8a12e; 
@@ -91,11 +89,9 @@ header {
    }
 }
 
-/* ==========================================
-   BANNER
-   ========================================== */
+
 .banner {
-   background-image: url('../TEMPLATE ONE PAGE/imagenes/IMAGENFONDO.png');
+   background-image: url('imagenes/IMAGENFONDO.png');
    background-size: cover;
    background-position: center;
    background-repeat: no-repeat;
@@ -149,9 +145,7 @@ header {
    }
 }
 
-/* ==========================================
-   CONTADOR
-   ========================================== */
+
 .contenedor-contador {
    background-color: #044774;
    text-align: center;
@@ -225,9 +219,7 @@ header {
    }
 }
 
-/* ==========================================
-   SECCION 1: MUSEO LOUVRE
-   ========================================== */
+
 .secciones {
    display: flex;
    flex-direction: column;
@@ -354,9 +346,7 @@ header {
     }
 }
 
-/* ==========================================
-   SECCION 2: FESTIVAL INSIGHT
-   ========================================== */
+
 #secc2 {
     background-color: #044774;
     padding: 70px 10%;
@@ -420,9 +410,7 @@ header {
     }
 }
 
-/* ==========================================
-   SECCION 3: COLABORADORES
-   ========================================== */
+
 #secc3 {
     background-color: #d8a12e;
     padding: 40px 5% 60px 5%;
@@ -606,11 +594,9 @@ header {
     }
 }
 
-/* ==========================================
-   SECCION 4: EXPERIENCIAS
-   ========================================== */
+
 #EXPERIENCIAS {
-    background-image: url('../template%20one%20page/imagenes/SEC4.png');
+    background-image: url('imagenes/SEC4.png');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -810,9 +796,7 @@ header {
     }
 }
 
-/* ==========================================
-   FOOTER
-   ========================================== */
+
 footer {
     background-color: #d8a12e;
     padding: 30px 5%;
@@ -916,9 +900,7 @@ footer {
     }
 }
 
-/* ==========================================
-   IR ARRIBA & MODAL
-   ========================================== */
+
 .ir-arriba {
     position: fixed;
     bottom: 20px;
